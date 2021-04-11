@@ -1,5 +1,5 @@
-/* @author   : akash kumar  */
-/* @username : KickStart    */
+/* @author    : akash kumar  */
+/* @username  : KickStart    */
 
 #include<iostream>
 using namespace std;
