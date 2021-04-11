@@ -1,7 +1,7 @@
 /* @author    : akash kumar  */
 /* @username  : KickStart    */
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int solve(string s,int n,int k)
