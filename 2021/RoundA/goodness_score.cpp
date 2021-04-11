@@ -1,5 +1,5 @@
-/* @author    : akash kumar  */
-/* @username  : KickStart    */
+/* @author name.        :   akash kumar  */
+/* @kickstart username  :   Akash@1996   */
 
 #include<bits/stdc++.h>
 using namespace std;
