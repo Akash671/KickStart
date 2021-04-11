@@ -1,4 +1,4 @@
-/* @author akash kumar  */
+/* @author : akash kumar  */
 
 #include<iostream>
 using namespace std;
