@@ -1,4 +1,4 @@
-/* author : @akash kumar */
+/* author : Akash@1996 */
 
 #include<bits/stdc++.h>
 using namespace std;
