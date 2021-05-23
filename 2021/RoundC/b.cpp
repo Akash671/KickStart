@@ -1,4 +1,6 @@
-/* author : @akash kumar */
+/* author              : Akash kumar 
+   kickstart username  : Akash@1996
+*/
 
 
 #include<bits/stdc++.h>
